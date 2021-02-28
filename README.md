@@ -1,2 +1,3 @@
-# leaning
-rpi,python,github
+# github setting
+
+https://git-scm.com/downloads  #git下載
