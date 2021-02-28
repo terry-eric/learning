@@ -26,8 +26,8 @@ git config --global user.email #查看mail
 # github upload download
 >可再任意處創建資料夾任意名稱，這裡用在C:\
 
-在C:\創建git_set_test的資料夾
-
+```在C:\創建git_set_test的資料夾```
+```
 cd/
 
 cd git_set_test
@@ -45,3 +45,12 @@ git add 123
 git commit -m 123 #後面的123為commit的提示字
 
 git push #上傳檔案
+```
+
+參考網址:
+
+```https://www.youtube.com/watch?v=py3n6gF5Y00&ab_channel=%E6%B2%88%E5%BC%98%E5%93%B2```>github setting
+
+```https://docs.github.com/en/github/getting-started-with-github/set-up-git#setting-up-git```>setup git
+
+```https://docs.github.com/cn/github/writing-on-github/basic-writing-and-formatting-syntax```>github基本撰寫格式和語法
