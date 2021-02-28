@@ -21,3 +21,26 @@ git config --global user.name #查看名稱
 git config --global user.email "yourmail" #輸入mail
 
 git config --global user.email #查看mail
+
+# github upload download
+可再任意處創建資料夾任意名稱，這裡用在C:\
+
+在C:\創建git_set_test的資料夾
+
+cd/
+
+cd git_set_test
+
+git clone https://github.com/terry-eric/leaning.git #此處連結為github裡，右上角下載的連結
+
+cd leaning 
+
+git status #查看有無增加或改變檔案，並顯示檔案名稱
+
+touch 123 #windows使用touch需先設定
+
+git add 123
+
+git commit -m 123 #後面的123為commit的提示字
+
+git push #上傳檔案
